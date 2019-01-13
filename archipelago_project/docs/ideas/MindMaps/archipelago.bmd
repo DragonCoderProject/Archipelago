@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<document type="BLUMIND" editor_version="3.2.514.18934" document_version="3.0.0.0">
+  <!--Create by Blumind, you can download it free from http://www.blumind.org-->
+  <information>
+    <author>kryst</author>
+    <company>
+    </company>
+    <version>3.0</version>
+    <description>
+    </description>
+  </information>
+  <attributes>
+    <item name="editor_show_sidebar">True</item>
+  </attributes>
+  <charts active_chart="0">
+    <chart name="Nowy wykres 1" type="MindMap">
+      <remark>
+      </remark>
+      <layout>MIND_MAP</layout>
+      <style>
+        <back_color>White</back_color>
+        <fore_color>Black</fore_color>
+        <line_color>LightSlateGray</line_color>
+        <border_color>SlateGray</border_color>
+        <node_back_color>LightGray</node_back_color>
+        <node_fore_color>Black</node_fore_color>
+        <select_color>RoyalBlue</select_color>
+        <hover_color>MediumSlateBlue</hover_color>
+        <link_line_color>Green</link_line_color>
+        <widget_margin>1</widget_margin>
+        <picture_thumb_size>100, 100</picture_thumb_size>
+      </style>
+      <nodes>
+        <node id="1" text="ARCHIPELAGO" x="470" y="377" width="108" height="42" text_b="12, 12, 84, 18">
+          <style>
+            <back_color>Silver</back_color>
+            <fore_color>Black</fore_color>
+            <border_color>Black</border_color>
+            <padding>12</padding>
+          </style>
+          <nodes>
+            <node id="1" text="Chat" x="356" y="258" width="34" height="22" text_b="2, 2, 30, 18" />
+            <node id="2" text="DateBank" x="329" y="344" width="61" height="22" text_b="2, 2, 57, 18" />
+            <node id="2" text="EQUIPMENT" x="314" y="430" width="76" height="22" text_b="2, 2, 72, 18" />
+            <node id="3" text="PLAYER" x="340" y="516" width="50" height="22" text_b="2, 2, 46, 18" />
+            <node id="4" text="SKILLS TREE" x="658" y="258" width="73" height="22" text_b="2, 2, 69, 18" />
+            <node id="5" text="QUEST" x="658" y="344" width="46" height="22" text_b="2, 2, 42, 18" />
+            <node id="6" text="NON PLAYER CHARACTER" x="658" y="430" width="152" height="22" text_b="2, 2, 148, 18" />
+            <node id="7" text="LEVEL" x="658" y="516" width="40" height="22" text_b="2, 2, 36, 18" />
+          </nodes>
+          <lines>
+            <line target="1" begin_side="Left" end_side="Right" begin_rect="470, 377, 108, 42" end_rect="356, 258, 34, 22" />
+            <line target="2" begin_side="Left" end_side="Right" begin_rect="470, 377, 108, 42" end_rect="329, 344, 61, 22" />
+            <line target="2" begin_side="Left" end_side="Right" begin_rect="470, 377, 108, 42" end_rect="314, 430, 76, 22" />
+            <line target="3" begin_side="Left" end_side="Right" begin_rect="470, 377, 108, 42" end_rect="340, 516, 50, 22" />
+            <line target="4" begin_side="Right" end_side="Left" begin_rect="470, 377, 108, 42" end_rect="658, 258, 73, 22" />
+            <line target="5" begin_side="Right" end_side="Left" begin_rect="470, 377, 108, 42" end_rect="658, 344, 46, 22" />
+            <line target="6" begin_side="Right" end_side="Left" begin_rect="470, 377, 108, 42" end_rect="658, 430, 152, 22" />
+            <line target="7" begin_side="Right" end_side="Left" begin_rect="470, 377, 108, 42" end_rect="658, 516, 40, 22" />
+          </lines>
+        </node>
+      </nodes>
+    </chart>
+  </charts>
+</document>

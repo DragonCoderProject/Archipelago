@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<document type="BLUMIND" editor_version="3.2.902.24361" document_version="3.0.0.0">
+  <!--Create by Blumind, you can download it free from http://www.blumind.org-->
+  <information>
+    <author>kryst</author>
+    <company>
+    </company>
+    <version>3.0</version>
+    <description>
+    </description>
+  </information>
+  <attributes>
+    <item name="editor_show_sidebar">True</item>
+  </attributes>
+  <charts active_chart="0">
+    <chart name="Nowy wykres 1" type="MindMap">
+      <remark>
+      </remark>
+      <layout>MIND_MAP</layout>
+      <style>
+        <back_color>White</back_color>
+        <fore_color>Black</fore_color>
+        <line_color>LightSlateGray</line_color>
+        <border_color>SlateGray</border_color>
+        <node_back_color>LightGray</node_back_color>
+        <node_fore_color>Black</node_fore_color>
+        <select_color>RoyalBlue</select_color>
+        <hover_color>MediumSlateBlue</hover_color>
+        <link_line_color>Green</link_line_color>
+        <widget_margin>1</widget_margin>
+        <picture_thumb_size>100, 100</picture_thumb_size>
+      </style>
+      <nodes>
+        <node id="1" text="PLAYER" x="536" y="377" width="70" height="42" text_b="12, 12, 46, 18">
+          <style>
+            <back_color>Silver</back_color>
+            <fore_color>Black</fore_color>
+            <border_color>Black</border_color>
+            <padding>12</padding>
+          </style>
+          <nodes>
+            <node id="2" text="YAMATOTAKERU" x="354" y="295" width="102" height="22" text_b="2, 2, 98, 18" />
+            <node id="3" text="SUSANOO" x="390" y="387" width="66" height="22" text_b="2, 2, 62, 18" />
+            <node id="4" text="TSUKUYOMI" x="380" y="479" width="76" height="22" text_b="2, 2, 72, 18" />
+            <node id="5" text="SENNINOWIE" x="686" y="347" width="83" height="22" text_b="2, 2, 79, 18" />
+            <node id="6" text="HACHIMAN" x="686" y="427" width="73" height="22" text_b="2, 2, 69, 18" />
+          </nodes>
+          <lines>
+            <line target="2" begin_side="Left" end_side="Right" begin_rect="536, 377, 70, 42" end_rect="354, 295, 102, 22" />
+            <line target="3" begin_side="Left" end_side="Right" begin_rect="536, 377, 70, 42" end_rect="390, 387, 66, 22" />
+            <line target="4" begin_side="Left" end_side="Right" begin_rect="536, 377, 70, 42" end_rect="380, 479, 76, 22" />
+            <line target="5" begin_side="Right" end_side="Left" begin_rect="536, 377, 70, 42" end_rect="686, 347, 83, 22" />
+            <line target="6" begin_side="Right" end_side="Left" begin_rect="536, 377, 70, 42" end_rect="686, 427, 73, 22" />
+          </lines>
+        </node>
+      </nodes>
+    </chart>
+  </charts>
+</document>

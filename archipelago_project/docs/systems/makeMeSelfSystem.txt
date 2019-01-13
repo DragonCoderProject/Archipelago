@@ -1,0 +1,2 @@
+sogenannte mission, chalange system. Bei dem System handelt sich um Möglichkeit zu geben, den spieler eigene missions and chalanges zu machen, die die Spieler
+annehmen können und belohnt werden. Einzige sache ist, dass die mission muss etwas mit dem Geschichte zu tun.

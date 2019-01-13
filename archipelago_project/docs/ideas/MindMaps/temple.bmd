@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<document type="BLUMIND" editor_version="3.2.514.18934" document_version="3.0.0.0">
+  <!--Create by Blumind, you can download it free from http://www.blumind.org-->
+  <information>
+    <author>kryst</author>
+    <company>
+    </company>
+    <version>3.0</version>
+    <description>
+    </description>
+  </information>
+  <attributes>
+    <item name="editor_show_sidebar">True</item>
+  </attributes>
+  <charts active_chart="0">
+    <chart name="Nowy wykres 1" type="MindMap">
+      <remark>
+      </remark>
+      <layout>MIND_MAP</layout>
+      <style>
+        <back_color>White</back_color>
+        <fore_color>Black</fore_color>
+        <line_color>LightSlateGray</line_color>
+        <border_color>SlateGray</border_color>
+        <node_back_color>LightGray</node_back_color>
+        <node_fore_color>Black</node_fore_color>
+        <select_color>RoyalBlue</select_color>
+        <hover_color>MediumSlateBlue</hover_color>
+        <link_line_color>Green</link_line_color>
+        <widget_margin>1</widget_margin>
+        <picture_thumb_size>100, 100</picture_thumb_size>
+      </style>
+      <nodes>
+        <node id="1" text="TEMPLE" x="681" y="377" width="71" height="42" text_b="12, 12, 47, 18">
+          <style>
+            <back_color>Silver</back_color>
+            <fore_color>Black</fore_color>
+            <border_color>Black</border_color>
+            <padding>12</padding>
+          </style>
+          <nodes>
+            <node id="2" text="BUILDING MATERIAL" x="478" y="215" width="123" height="22" text_b="2, 2, 119, 18" fold_btn_b="464, 220, 13, 13">
+              <nodes>
+                <node id="3" text="GOLD" x="357" y="151" width="41" height="22" text_b="2, 2, 37, 18" />
+                <node id="4" text="STRAW" x="350" y="183" width="48" height="22" text_b="2, 2, 44, 18" />
+                <node id="5" text="STONE" x="352" y="215" width="46" height="22" text_b="2, 2, 42, 18" />
+                <node id="6" text="SILBER" x="353" y="247" width="45" height="22" text_b="2, 2, 41, 18" />
+                <node id="7" text="WOOD" x="351" y="279" width="47" height="22" text_b="2, 2, 43, 18" />
+              </nodes>
+              <lines>
+                <line target="3" begin_side="Left" end_side="Right" begin_rect="465, 215, 136, 22" end_rect="357, 151, 41, 22" />
+                <line target="4" begin_side="Left" end_side="Right" begin_rect="465, 215, 136, 22" end_rect="350, 183, 48, 22" />
+                <line target="5" begin_side="Left" end_side="Right" begin_rect="465, 215, 136, 22" end_rect="352, 215, 46, 22" />
+                <line target="6" begin_side="Left" end_side="Right" begin_rect="465, 215, 136, 22" end_rect="353, 247, 45, 22" />
+                <line target="7" begin_side="Left" end_side="Right" begin_rect="465, 215, 136, 22" end_rect="351, 279, 47, 22" />
+              </lines>
+            </node>
+            <node id="8" text="FIGHT BEETWEN TEMPLE" x="457" y="435" width="144" height="22" text_b="2, 2, 140, 18" fold_btn_b="443, 440, 13, 13">
+              <nodes>
+                <node id="9" text="ALL VS ALL" x="308" y="371" width="69" height="22" text_b="2, 2, 65, 18" />
+                <node id="10" text="5 VS 5" x="334" y="403" width="43" height="22" text_b="2, 2, 39, 18" />
+                <node id="11" text="3 VS 3" x="334" y="435" width="43" height="22" text_b="2, 2, 39, 18" />
+                <node id="12" text="2 VS 2" x="334" y="467" width="43" height="22" text_b="2, 2, 39, 18" />
+                <node id="13" text="1 VS 1" x="334" y="499" width="43" height="22" text_b="2, 2, 39, 18" />
+              </nodes>
+              <lines>
+                <line target="9" begin_side="Left" end_side="Right" begin_rect="444, 435, 157, 22" end_rect="308, 371, 69, 22" />
+                <line target="10" begin_side="Left" end_side="Right" begin_rect="444, 435, 157, 22" end_rect="334, 403, 43, 22" />
+                <line target="11" begin_side="Left" end_side="Right" begin_rect="444, 435, 157, 22" end_rect="334, 435, 43, 22" />
+                <line target="12" begin_side="Left" end_side="Right" begin_rect="444, 435, 157, 22" end_rect="334, 467, 43, 22" />
+                <line target="13" begin_side="Left" end_side="Right" begin_rect="444, 435, 157, 22" end_rect="334, 499, 43, 22" />
+              </lines>
+            </node>
+            <node id="14" text="LOSE IN FIGHT" x="512" y="607" width="89" height="22" text_b="2, 2, 85, 18" fold_btn_b="498, 612, 13, 13">
+              <nodes>
+                <node id="15" text="LOSER MUST" x="352" y="607" width="80" height="22" text_b="2, 2, 76, 18" fold_btn_b="338, 612, 13, 13">
+                  <nodes>
+                    <node id="16" text="GIVE MONEY FOR ANOTHER TEMPLE" x="61" y="591" width="211" height="22" text_b="2, 2, 207, 18" />
+                    <node id="17" text="THE BUILDS WILL BE REDUCED ABOUT 1 LVL" x="20" y="623" width="252" height="22" text_b="2, 2, 248, 18" />
+                  </nodes>
+                  <lines>
+                    <line target="16" begin_side="Left" end_side="Right" begin_rect="339, 607, 93, 22" end_rect="61, 591, 211, 22" />
+                    <line target="17" begin_side="Left" end_side="Right" begin_rect="339, 607, 93, 22" end_rect="20, 623, 252, 22" />
+                  </lines>
+                </node>
+              </nodes>
+              <lines>
+                <line target="15" begin_side="Left" end_side="Right" begin_rect="499, 607, 102, 22" end_rect="352, 607, 80, 22" />
+              </lines>
+            </node>
+            <node id="18" text="BONUS OF GOT" x="832" y="215" width="96" height="22" text_b="2, 2, 92, 18" fold_btn_b="929, 220, 13, 13">
+              <nodes>
+                <node id="19" text="ONE OF MAIN GOTS" x="1008" y="215" width="121" height="22" text_b="2, 2, 117, 18" />
+              </nodes>
+              <lines>
+                <line target="19" begin_side="Right" end_side="Left" begin_rect="832, 215, 109, 22" end_rect="1008, 215, 121, 22" />
+              </lines>
+            </node>
+            <node id="20" text="&quot;BANK&quot; OF TEMPLE" x="832" y="339" width="115" height="22" text_b="2, 2, 111, 18" fold_btn_b="948, 344, 13, 13">
+              <nodes>
+                <node id="21" text="TOURNAMENT FOR TAMPLES" x="1027" y="307" width="171" height="22" text_b="2, 2, 167, 18" />
+                <node id="22" text="WIN IN TEMPLES AREA" x="1027" y="339" width="134" height="22" text_b="2, 2, 130, 18" />
+                <node id="23" text="PAYMENT OF PLAYERS" x="1027" y="371" width="133" height="22" text_b="2, 2, 129, 18" />
+              </nodes>
+              <lines>
+                <line target="21" begin_side="Right" end_side="Left" begin_rect="832, 339, 128, 22" end_rect="1027, 307, 171, 22" />
+                <line target="22" begin_side="Right" end_side="Left" begin_rect="832, 339, 128, 22" end_rect="1027, 339, 134, 22" />
+                <line target="23" begin_side="Right" end_side="Left" begin_rect="832, 339, 128, 22" end_rect="1027, 371, 133, 22" />
+              </lines>
+            </node>
+            <node id="24" text="LEVEL" x="832" y="511" width="40" height="22" text_b="2, 2, 36, 18" fold_btn_b="873, 516, 13, 13">
+              <nodes>
+                <node id="25" text="1. JINJA - SHINTO" x="952" y="463" width="106" height="22" text_b="2, 2, 102, 18" fold_btn_b="1059, 468, 13, 13">
+                  <nodes>
+                    <node id="1" text="poczatkowy poziom shinto" x="1138" y="463" width="154" height="22" text_b="2, 2, 150, 18" />
+                  </nodes>
+                  <lines>
+                    <line target="1" begin_side="Right" end_side="Left" begin_rect="952, 463, 119, 22" end_rect="1138, 463, 154, 22" />
+                  </lines>
+                </node>
+                <node id="26" text="2. KYOHA SHINTO" x="952" y="495" width="108" height="22" text_b="2, 2, 104, 18" fold_btn_b="1061, 500, 13, 13">
+                  <nodes>
+                    <node id="2" text="Zagadnienie 1" x="1140" y="495" width="86" height="22" text_b="2, 2, 82, 18" />
+                  </nodes>
+                  <lines>
+                    <line target="2" begin_side="Right" end_side="Left" begin_rect="952, 495, 121, 22" end_rect="1140, 495, 86, 22" />
+                  </lines>
+                </node>
+                <node id="27" text="3. MINKAN - SHINTO" x="952" y="527" width="125" height="22" text_b="2, 2, 121, 18" fold_btn_b="1078, 532, 13, 13">
+                  <nodes>
+                    <node id="3" text="Zagadnienie 1" x="1157" y="527" width="86" height="22" text_b="2, 2, 82, 18" />
+                  </nodes>
+                  <lines>
+                    <line target="3" begin_side="Right" end_side="Left" begin_rect="952, 527, 138, 22" end_rect="1157, 527, 86, 22" />
+                  </lines>
+                </node>
+                <node id="28" text="4. KÖSHITSU - SHINTO" x="952" y="559" width="133" height="22" text_b="2, 2, 129, 18" fold_btn_b="1086, 564, 13, 13">
+                  <nodes>
+                    <node id="4" text="najwazniejszy stopien shinto" x="1165" y="559" width="163" height="22" text_b="2, 2, 159, 18" />
+                  </nodes>
+                  <lines>
+                    <line target="4" begin_side="Right" end_side="Left" begin_rect="952, 559, 146, 22" end_rect="1165, 559, 163, 22" />
+                  </lines>
+                </node>
+              </nodes>
+              <lines>
+                <line target="25" begin_side="Right" end_side="Left" begin_rect="832, 511, 53, 22" end_rect="952, 463, 106, 22" />
+                <line target="26" begin_side="Right" end_side="Left" begin_rect="832, 511, 53, 22" end_rect="952, 495, 108, 22" />
+                <line target="27" begin_side="Right" end_side="Left" begin_rect="832, 511, 53, 22" end_rect="952, 527, 125, 22" />
+                <line target="28" begin_side="Right" end_side="Left" begin_rect="832, 511, 53, 22" end_rect="952, 559, 133, 22" />
+              </lines>
+            </node>
+          </nodes>
+          <lines>
+            <line target="2" begin_side="Left" end_side="Right" begin_rect="681, 377, 71, 42" end_rect="478, 215, 123, 22" />
+            <line target="8" begin_side="Left" end_side="Right" begin_rect="681, 377, 71, 42" end_rect="457, 435, 144, 22" />
+            <line target="14" begin_side="Left" end_side="Right" begin_rect="681, 377, 71, 42" end_rect="512, 607, 89, 22" />
+            <line target="18" begin_side="Right" end_side="Left" begin_rect="681, 377, 71, 42" end_rect="832, 215, 96, 22" />
+            <line target="20" begin_side="Right" end_side="Left" begin_rect="681, 377, 71, 42" end_rect="832, 339, 115, 22" />
+            <line target="24" begin_side="Right" end_side="Left" begin_rect="681, 377, 71, 42" end_rect="832, 511, 40, 22" />
+          </lines>
+        </node>
+      </nodes>
+    </chart>
+  </charts>
+</document>

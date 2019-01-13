@@ -1,0 +1,8 @@
+Gra Pozwalajaca niewidomym na interakcje z innymi ludzmi i pokazujaca swiat MMORPG 
+
+Jak rozwiazac problem z moving, interakcja NPC & Player, Plyer & Plyer, Plyer & Mobs systems, Challang, Mission, Dangeons,
+fight PVM, PVP,
+
+
+
+interakcja z niwidomymi, poprzec siezke dzwiekowa i poriuszanie sie glosem, calosc interaktywna

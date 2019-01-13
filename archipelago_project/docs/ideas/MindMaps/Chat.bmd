@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<document type="BLUMIND" editor_version="3.2.902.24361" document_version="3.0.0.0">
+  <!--Create by Blumind, you can download it free from http://www.blumind.org-->
+  <information>
+    <author>kryst</author>
+    <company>
+    </company>
+    <version>3.0</version>
+    <description>
+    </description>
+  </information>
+  <attributes>
+    <item name="editor_show_sidebar">True</item>
+  </attributes>
+  <charts active_chart="0">
+    <chart name="Nowy wykres 1" type="MindMap">
+      <remark>
+      </remark>
+      <layout>MIND_MAP</layout>
+      <style>
+        <back_color>White</back_color>
+        <fore_color>Black</fore_color>
+        <line_color>LightSlateGray</line_color>
+        <border_color>SlateGray</border_color>
+        <node_back_color>LightGray</node_back_color>
+        <node_fore_color>Black</node_fore_color>
+        <select_color>RoyalBlue</select_color>
+        <hover_color>MediumSlateBlue</hover_color>
+        <link_line_color>Green</link_line_color>
+        <widget_margin>1</widget_margin>
+        <picture_thumb_size>100, 100</picture_thumb_size>
+      </style>
+      <nodes>
+        <node id="1" text="Chat" x="521" y="377" width="54" height="42" text_b="12, 12, 30, 18">
+          <style>
+            <back_color>Silver</back_color>
+            <fore_color>Black</fore_color>
+            <border_color>Black</border_color>
+            <padding>12</padding>
+          </style>
+          <nodes>
+            <node id="1" text="for logs" x="391" y="347" width="50" height="22" text_b="2, 2, 46, 18" />
+            <node id="2" text="for all" x="401" y="427" width="40" height="22" text_b="2, 2, 36, 18" />
+            <node id="3" text="for a country" x="655" y="387" width="78" height="22" text_b="2, 2, 74, 18" />
+          </nodes>
+          <lines>
+            <line target="1" begin_side="Left" end_side="Right" begin_rect="521, 377, 54, 42" end_rect="391, 347, 50, 22" />
+            <line target="2" begin_side="Left" end_side="Right" begin_rect="521, 377, 54, 42" end_rect="401, 427, 40, 22" />
+            <line target="3" begin_side="Right" end_side="Left" begin_rect="521, 377, 54, 42" end_rect="655, 387, 78, 22" />
+          </lines>
+        </node>
+      </nodes>
+    </chart>
+  </charts>
+</document>

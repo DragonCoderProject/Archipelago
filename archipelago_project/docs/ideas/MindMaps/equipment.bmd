@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<document type="BLUMIND" editor_version="3.2.514.18934" document_version="3.0.0.0">
+  <!--Create by Blumind, you can download it free from http://www.blumind.org-->
+  <information>
+    <author>kryst</author>
+    <company>
+    </company>
+    <version>3.0</version>
+    <description>
+    </description>
+  </information>
+  <attributes>
+    <item name="editor_show_sidebar">True</item>
+  </attributes>
+  <charts active_chart="0">
+    <chart name="Nowy wykres 1" type="MindMap">
+      <remark>
+      </remark>
+      <layout>MIND_MAP</layout>
+      <style>
+        <back_color>White</back_color>
+        <fore_color>Black</fore_color>
+        <line_color>LightSlateGray</line_color>
+        <border_color>SlateGray</border_color>
+        <node_back_color>LightGray</node_back_color>
+        <node_fore_color>Black</node_fore_color>
+        <select_color>RoyalBlue</select_color>
+        <hover_color>MediumSlateBlue</hover_color>
+        <link_line_color>Green</link_line_color>
+        <widget_margin>1</widget_margin>
+        <picture_thumb_size>100, 100</picture_thumb_size>
+      </style>
+      <nodes>
+        <node id="1" text="EQUIPMENT" x="496" y="377" width="96" height="42" text_b="12, 12, 72, 18">
+          <style>
+            <back_color>Silver</back_color>
+            <fore_color>Black</fore_color>
+            <border_color>Black</border_color>
+            <padding>12</padding>
+          </style>
+          <nodes>
+            <node id="1" text="HELMET" x="363" y="135" width="53" height="22" text_b="2, 2, 49, 18" fold_btn_b="349, 140, 13, 13">
+              <nodes>
+                <node id="2" text="Zagadnienie 5" x="197" y="71" width="86" height="22" text_b="2, 2, 82, 18" />
+                <node id="3" text="Zagadnienie 4" x="197" y="103" width="86" height="22" text_b="2, 2, 82, 18" />
+                <node id="4" text="Zagadnienie 3" x="197" y="135" width="86" height="22" text_b="2, 2, 82, 18" />
+                <node id="5" text="Zagadnienie 2" x="197" y="167" width="86" height="22" text_b="2, 2, 82, 18" />
+                <node id="6" text="Zagadnienie 1" x="197" y="199" width="86" height="22" text_b="2, 2, 82, 18" />
+              </nodes>
+              <lines>
+                <line target="2" begin_side="Left" end_side="Right" begin_rect="350, 135, 66, 22" end_rect="197, 71, 86, 22" />
+                <line target="3" begin_side="Left" end_side="Right" begin_rect="350, 135, 66, 22" end_rect="197, 103, 86, 22" />
+                <line target="4" begin_side="Left" end_side="Right" begin_rect="350, 135, 66, 22" end_rect="197, 135, 86, 22" />
+                <line target="5" begin_side="Left" end_side="Right" begin_rect="350, 135, 66, 22" end_rect="197, 167, 86, 22" />
+                <line target="6" begin_side="Left" end_side="Right" begin_rect="350, 135, 66, 22" end_rect="197, 199, 86, 22" />
+              </lines>
+            </node>
+            <node id="2" text="ANOTHER" x="352" y="387" width="64" height="22" text_b="2, 2, 60, 18" fold_btn_b="338, 392, 13, 13">
+              <nodes>
+                <node id="7" text="Zagadnienie 7" x="186" y="291" width="86" height="22" text_b="2, 2, 82, 18" />
+                <node id="8" text="Zagadnienie 6" x="186" y="323" width="86" height="22" text_b="2, 2, 82, 18" />
+                <node id="9" text="Zagadnienie 5" x="186" y="355" width="86" height="22" text_b="2, 2, 82, 18" />
+                <node id="10" text="Zagadnienie 4" x="186" y="387" width="86" height="22" text_b="2, 2, 82, 18" />
+                <node id="11" text="Zagadnienie 3" x="186" y="419" width="86" height="22" text_b="2, 2, 82, 18" />
+                <node id="12" text="Zagadnienie 2" x="186" y="451" width="86" height="22" text_b="2, 2, 82, 18" />
+                <node id="13" text="Zagadnienie 1" x="186" y="483" width="86" height="22" text_b="2, 2, 82, 18" />
+              </nodes>
+              <lines>
+                <line target="7" begin_side="Left" end_side="Right" begin_rect="339, 387, 77, 22" end_rect="186, 291, 86, 22" />
+                <line target="8" begin_side="Left" end_side="Right" begin_rect="339, 387, 77, 22" end_rect="186, 323, 86, 22" />
+                <line target="9" begin_side="Left" end_side="Right" begin_rect="339, 387, 77, 22" end_rect="186, 355, 86, 22" />
+                <line target="10" begin_side="Left" end_side="Right" begin_rect="339, 387, 77, 22" end_rect="186, 387, 86, 22" />
+                <line target="11" begin_side="Left" end_side="Right" begin_rect="339, 387, 77, 22" end_rect="186, 419, 86, 22" />
+                <line target="12" begin_side="Left" end_side="Right" begin_rect="339, 387, 77, 22" end_rect="186, 451, 86, 22" />
+                <line target="13" begin_side="Left" end_side="Right" begin_rect="339, 387, 77, 22" end_rect="186, 483, 86, 22" />
+              </lines>
+            </node>
+            <node id="3" text="JEWELLERY" x="347" y="639" width="69" height="22" text_b="2, 2, 65, 18" fold_btn_b="333, 644, 13, 13">
+              <nodes>
+                <node id="14" text="Zagadnienie 5" x="181" y="575" width="86" height="22" text_b="2, 2, 82, 18" />
+                <node id="15" text="Zagadnienie 4" x="181" y="607" width="86" height="22" text_b="2, 2, 82, 18" />
+                <node id="16" text="Zagadnienie 3" x="181" y="639" width="86" height="22" text_b="2, 2, 82, 18" />
+                <node id="17" text="Zagadnienie 2" x="181" y="671" width="86" height="22" text_b="2, 2, 82, 18" />
+                <node id="18" text="Zagadnienie 1" x="181" y="703" width="86" height="22" text_b="2, 2, 82, 18" />
+              </nodes>
+              <lines>
+                <line target="14" begin_side="Left" end_side="Right" begin_rect="334, 639, 82, 22" end_rect="181, 575, 86, 22" />
+                <line target="15" begin_side="Left" end_side="Right" begin_rect="334, 639, 82, 22" end_rect="181, 607, 86, 22" />
+                <line target="16" begin_side="Left" end_side="Right" begin_rect="334, 639, 82, 22" end_rect="181, 639, 86, 22" />
+                <line target="17" begin_side="Left" end_side="Right" begin_rect="334, 639, 82, 22" end_rect="181, 671, 86, 22" />
+                <line target="18" begin_side="Left" end_side="Right" begin_rect="334, 639, 82, 22" end_rect="181, 703, 86, 22" />
+              </lines>
+            </node>
+            <node id="4" text="WHITE WEAPON" x="672" y="283" width="99" height="22" text_b="2, 2, 95, 18" fold_btn_b="772, 288, 13, 13">
+              <nodes>
+                <node id="19" text="Zagadnienie 12" x="851" y="107" width="92" height="22" text_b="2, 2, 88, 18" />
+                <node id="20" text="Zagadnienie 11" x="851" y="139" width="92" height="22" text_b="2, 2, 88, 18" />
+                <node id="21" text="Zagadnienie 10" x="851" y="171" width="92" height="22" text_b="2, 2, 88, 18" />
+                <node id="22" text="Zagadnienie 9" x="851" y="203" width="86" height="22" text_b="2, 2, 82, 18" />
+                <node id="23" text="Zagadnienie 8" x="851" y="235" width="86" height="22" text_b="2, 2, 82, 18" />
+                <node id="24" text="Zagadnienie 7" x="851" y="267" width="86" height="22" text_b="2, 2, 82, 18" />
+                <node id="25" text="Zagadnienie 6" x="851" y="299" width="86" height="22" text_b="2, 2, 82, 18" />
+                <node id="26" text="Zagadnienie 5" x="851" y="331" width="86" height="22" text_b="2, 2, 82, 18" />
+                <node id="27" text="Zagadnienie 4" x="851" y="363" width="86" height="22" text_b="2, 2, 82, 18" />
+                <node id="28" text="Zagadnienie 3" x="851" y="395" width="86" height="22" text_b="2, 2, 82, 18" />
+                <node id="29" text="Zagadnienie 2" x="851" y="427" width="86" height="22" text_b="2, 2, 82, 18" />
+                <node id="30" text="Zagadnienie 1" x="851" y="459" width="86" height="22" text_b="2, 2, 82, 18" />
+              </nodes>
+              <lines>
+                <line target="19" begin_side="Right" end_side="Left" begin_rect="672, 283, 112, 22" end_rect="851, 107, 92, 22" />
+                <line target="20" begin_side="Right" end_side="Left" begin_rect="672, 283, 112, 22" end_rect="851, 139, 92, 22" />
+                <line target="21" begin_side="Right" end_side="Left" begin_rect="672, 283, 112, 22" end_rect="851, 171, 92, 22" />
+                <line target="22" begin_side="Right" end_side="Left" begin_rect="672, 283, 112, 22" end_rect="851, 203, 86, 22" />
+                <line target="23" begin_side="Right" end_side="Left" begin_rect="672, 283, 112, 22" end_rect="851, 235, 86, 22" />
+                <line target="24" begin_side="Right" end_side="Left" begin_rect="672, 283, 112, 22" end_rect="851, 267, 86, 22" />
+                <line target="25" begin_side="Right" end_side="Left" begin_rect="672, 283, 112, 22" end_rect="851, 299, 86, 22" />
+                <line target="26" begin_side="Right" end_side="Left" begin_rect="672, 283, 112, 22" end_rect="851, 331, 86, 22" />
+                <line target="27" begin_side="Right" end_side="Left" begin_rect="672, 283, 112, 22" end_rect="851, 363, 86, 22" />
+                <line target="28" begin_side="Right" end_side="Left" begin_rect="672, 283, 112, 22" end_rect="851, 395, 86, 22" />
+                <line target="29" begin_side="Right" end_side="Left" begin_rect="672, 283, 112, 22" end_rect="851, 427, 86, 22" />
+                <line target="30" begin_side="Right" end_side="Left" begin_rect="672, 283, 112, 22" end_rect="851, 459, 86, 22" />
+              </lines>
+            </node>
+            <node id="5" text="ARMOUR" x="672" y="603" width="60" height="22" text_b="2, 2, 56, 18" fold_btn_b="733, 608, 13, 13">
+              <nodes>
+                <node id="31" text="Zagadnienie 5" x="812" y="539" width="86" height="22" text_b="2, 2, 82, 18" />
+                <node id="32" text="Zagadnienie 4" x="812" y="571" width="86" height="22" text_b="2, 2, 82, 18" />
+                <node id="33" text="Zagadnienie 3" x="812" y="603" width="86" height="22" text_b="2, 2, 82, 18" />
+                <node id="34" text="Zagadnienie 2" x="812" y="635" width="86" height="22" text_b="2, 2, 82, 18" />
+                <node id="35" text="Zagadnienie 1" x="812" y="667" width="86" height="22" text_b="2, 2, 82, 18" />
+              </nodes>
+              <lines>
+                <line target="31" begin_side="Right" end_side="Left" begin_rect="672, 603, 73, 22" end_rect="812, 539, 86, 22" />
+                <line target="32" begin_side="Right" end_side="Left" begin_rect="672, 603, 73, 22" end_rect="812, 571, 86, 22" />
+                <line target="33" begin_side="Right" end_side="Left" begin_rect="672, 603, 73, 22" end_rect="812, 603, 86, 22" />
+                <line target="34" begin_side="Right" end_side="Left" begin_rect="672, 603, 73, 22" end_rect="812, 635, 86, 22" />
+                <line target="35" begin_side="Right" end_side="Left" begin_rect="672, 603, 73, 22" end_rect="812, 667, 86, 22" />
+              </lines>
+            </node>
+          </nodes>
+          <lines>
+            <line target="1" begin_side="Left" end_side="Right" begin_rect="496, 377, 96, 42" end_rect="363, 135, 53, 22" />
+            <line target="2" begin_side="Left" end_side="Right" begin_rect="496, 377, 96, 42" end_rect="352, 387, 64, 22" />
+            <line target="3" begin_side="Left" end_side="Right" begin_rect="496, 377, 96, 42" end_rect="347, 639, 69, 22" />
+            <line target="4" begin_side="Right" end_side="Left" begin_rect="496, 377, 96, 42" end_rect="672, 283, 99, 22" />
+            <line target="5" begin_side="Right" end_side="Left" begin_rect="496, 377, 96, 42" end_rect="672, 603, 60, 22" />
+          </lines>
+        </node>
+      </nodes>
+    </chart>
+  </charts>
+</document>
